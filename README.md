@@ -9,6 +9,7 @@ my-api-project/
 │
 ├── internal/           # Business logic and internal components
 │   └── handler/        # Functions that handle HTTP requests
+│   └── db/             # db conenction
 │   └── model/          # Data models (structures) of the application
 │   └── service/        # Business logic, such as create, read, etc.
 │
